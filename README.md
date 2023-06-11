@@ -30,3 +30,4 @@ Hybrid mobile app for shopping beauty products online.
 
 ## Output
 ![See the Working](EcommerceApp.mp4)
+EcommerceApp.mp4 in the root folder
