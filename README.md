@@ -15,7 +15,18 @@ Hybrid mobile app for shopping beauty products online.
 10. UI as per : https://www.figma.com/file/yknUchK8Is9LntcfcITZz5/React-Native-Developer-Exercise?node-id=1%3A405&t=xS8BrsThazjgw7OL-1
 11. Development hours: 48 hours
 
+### UI components
+1. View
+2. Text
+3. FlatList(vertical/horizontal)
+4. Image
+5. ImagBackground
+6. Vector Icons
+
 ### Usage
 1. Clone the repo
 2. npm install
 3. npm run android or npm run ios
+
+## Output
+![See the Working](EcommerceApp.mp4)
